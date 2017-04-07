@@ -2,7 +2,7 @@
 var Alexa = require("alexa-sdk");
 var appId = 'amzn1.ask.skill.ce19d66c-b1d2-40b9-987a-ea1c13916b14'; //'amzn1.echo-sdk-ams.app.your-skill-id';
 var https = require('https');
-var apiKey = 'AIzaSyDBuY63041R_cpalQykTqpuFRvm_zz1EKA';
+//var apiKey = /* YOUR_KEY */;
 var alexa;
 
 exports.handler = function(event, context, callback) {
